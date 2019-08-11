@@ -1,2 +1,2 @@
-# Hello
-This is my first Project in github
+# Python 
+Prjects on python
